@@ -1,4 +1,4 @@
-package hello_world
+package _1_hello_world
 
 /**
  * Created by Administrator on 2015-11-22.
